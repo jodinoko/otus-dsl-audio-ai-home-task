@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.cache/
+outputs/**/checkpoints/
+*.egg-info/
+
+.ipynb_checkpoints/
+.pytest_cache/
+build/
+dist/
+outputs/

@@ -1,0 +1,6 @@
+name,image,audio,question
+cars,pictures/cars.png,audio/cars.mp3,Найди синюю машину?
+cartoon,pictures/cartoon.png,audio/cartoon.mp3,Что ты видишь?
+city,pictures/city.png,audio/city.mp3,Что это за город?
+find_cat,pictures/find_cat.png,audio/find_cat.mp3,Где кот?
+food,pictures/food.png,audio/food.mp3,Что самое калорийное изображено здесь?
